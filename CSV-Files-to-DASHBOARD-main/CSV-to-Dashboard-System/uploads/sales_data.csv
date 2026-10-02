@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,City,Quantity,Unit_Price,Total_Amount,Payment_Method
+1001,2026-01-05,Rahul Sharma,Laptop,Electronics,Hyderabad,1,65000,65000,Credit Card
+1002,2026-01-06,Priya Reddy,Headphones,Electronics,Bangalore,2,2500,5000,UPI
+1003,2026-01-07,Amit Kumar,Office Chair,Furniture,Chennai,1,8500,8500,Debit Card
+1004,2026-01-08,Neha Patel,Smartphone,Electronics,Mumbai,2,22000,44000,Credit Card
+1005,2026-01-09,Rohan Singh,Notebook,Stationery,Pune,10,120,1200,Cash
+1006,2026-01-10,Anjali Verma,Printer,Electronics,Delhi,1,14500,14500,UPI
+1007,2026-01-11,Karan Gupta,Desk,Furniture,Hyderabad,1,9500,9500,Debit Card
+1008,2026-01-12,Meera Nair,Monitor,Electronics,Kochi,2,14000,28000,Credit Card
+1009,2026-01-13,Suresh Rao,Keyboard,Electronics,Visakhapatnam,3,1800,5400,Cash
+1010,2026-01-14,Divya Sharma,Mouse,Electronics,Tirupati,5,750,3750,UPI
+1011,2026-01-15,Arjun Reddy,Tablet,Electronics,Bangalore,2,18000,36000,Credit Card
+1012,2026-01-16,Keerthi Devi,Books,Stationery,Hyderabad,8,450,3600,Cash
+1013,2026-01-17,Vikram Rao,Laptop Bag,Accessories,Chennai,4,1200,4800,Debit Card
+1014,2026-01-18,Sneha Kapoor,Webcam,Electronics,Mumbai,3,3500,10500,UPI
+1015,2026-01-19,Manoj Kumar,Whiteboard,Office Supplies,Pune,2,2800,5600,Credit Card
+1016,2026-01-20,Pooja Rani,Pen Drive,Electronics,Delhi,6,900,5400,Cash
+1017,2026-01-21,Nikhil Jain,Router,Electronics,Hyderabad,2,4200,8400,UPI
+1018,2026-01-22,Asha Menon,Bookshelf,Furniture,Kochi,1,11000,11000,Debit Card
+1019,2026-01-23,Ravi Teja,Projector,Electronics,Tirupati,1,38000,38000,Credit Card
+1020,2026-01-24,Lakshmi Priya,Calculator,Stationery,Bangalore,7,650,4550,Cash
